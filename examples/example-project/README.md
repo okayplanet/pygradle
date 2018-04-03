@@ -10,7 +10,7 @@ $ tree
 ├── README.md
 ├── setup.cfg
 ├── src
-│   └── example-pygradle-project
+│   └── helloworld 
 │       └── __init__.py
 └── test
     └── test_example.py
